@@ -1,1 +1,1 @@
-This was originally a school project. It is a basic program for autocompletion of user-entered words from a dictionary. Makes use of a DLB trie and is fairly efficient. A2Test.java is the driver file. 
+This was originally a school project. It is a basic program for autocompletion of user-entered words from a dictionary (text file entered as a program argument). Makes use of a DLB trie and is fairly efficient. A2Test.java is the driver file. 
